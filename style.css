@@ -355,8 +355,7 @@ nav #ff{
 /* mobile dimension styles */
 
 
-  @media screen and (max-width:500px){
-    #header{
+#header{
         background-image: url("images/w.jpg");
         height: 915px;
         width: 600px;
@@ -499,7 +498,7 @@ nav #ff{
         font-weight: 500;
         letter-spacing: 5px;
     }
-   #t{
+    #t{
         float: left;
         font-size:x-large;
         line-break: strict;
@@ -522,7 +521,6 @@ nav #ff{
     }
     form input,form textarea{
         width: 300px;
-        display:list-item;
         border: 0px;
         outline: none;
         background: #262626;
@@ -538,21 +536,5 @@ nav #ff{
     .copyright{
         float: left;
         margin-left: 70px;
-    }
-    .d{
-        display: list-item;
-        list-style: none;
-    }
-    .conright form{
-        width: 50px;
-    }
-    body{
-        background-color: #080808;
-        color: #fff;
-        width: 400px;
-        box-sizing: border-box;
-        max-width: 400px;
-        overflow: hidden;
-
     }
 }

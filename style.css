@@ -306,6 +306,18 @@ span{
     letter-spacing: 1px;
 
 }
+.btnn{
+    display: inline-block;
+    background:rgba(107, 200, 232, 0.571);
+    margin: 50px auto;
+    width: fit-content;
+    border: 1px solid rgba(0, 255, 255, 0.66)04f;
+    padding: 14px 50px;
+    border-radius: 6px;
+    font-style:normal;
+    color: rgba(240, 248, 255, 0.747);
+    letter-spacing: 1px;
+}
 .conright form{
     width: 100px;
 }
@@ -511,9 +523,6 @@ nav #ff{
         margin-top: 80px;
         margin-left: -10px;
     }
-    .btn{
-        margin-left: -60px;
-    }
     .smedia{
         margin-left: 5px;
     }
@@ -544,4 +553,8 @@ nav #ff{
         display: list-item;
         list-style: none;
     }
+        .btnn{
+        margin-right: 200px;
+    }
+}
 }

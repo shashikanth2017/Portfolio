@@ -511,9 +511,9 @@ nav #ff{
         margin-top: 80px;
         margin-left: -10px;
     }
-    .btn{
+/*     .btn{
         margin-left: -150px;
-    }
+    } */
     .smedia{
         margin-left: 5px;
     }
@@ -534,7 +534,7 @@ nav #ff{
         margin-left: -20px;
     }
     .form .btn{
-        margin-left: 5px;
+        margin-left: 50px;
     }
     .copyright{
         float: left;

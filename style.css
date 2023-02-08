@@ -537,4 +537,8 @@ nav #ff{
         float: left;
         margin-left: 70px;
     }
+    .form{
+        margin-top: 200px;
+        margin-left: -10px;
+    }
 }

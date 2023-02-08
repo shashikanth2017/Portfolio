@@ -355,7 +355,7 @@ nav #ff{
 /* mobile dimension styles */
 
    @media screen and (max-width:450px){
-    #header{
+   #header{
         background-image: url("images/w.jpg");
         height: 915px;
         width: 600px;
@@ -498,6 +498,9 @@ nav #ff{
         font-weight: 500;
         letter-spacing: 5px;
     }
+    .eid{
+        display: none;
+    }
     #t{
         float: left;
         font-size:x-large;
@@ -509,7 +512,7 @@ nav #ff{
         margin-left: -10px;
     }
     .btn{
-        margin-left: -10px;
+        margin-left: -150px;
     }
     .smedia{
         margin-left: 5px;
@@ -528,13 +531,17 @@ nav #ff{
         margin: 15px 0;
         color: #fff;
         border-radius: 6px;
-        margin-left: -120px;
+        margin-left: -20px;
     }
     .form .btn{
-        margin-left: -43px;
+        margin-left: -13px;
     }
     .copyright{
         float: left;
         margin-left: 70px;
+    }
+    .roq{
+        display: list-item;
+        list-style: none;
     }
 }

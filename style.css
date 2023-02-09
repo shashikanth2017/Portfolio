@@ -368,7 +368,7 @@ nav #ff{
 
    @media screen and (max-width:450px){
    #header{
-        background-image: url("images/w.jpg");
+        background-image: url("images/t.jpg");
         height: 915px;
         width: 600px;
     }
@@ -434,7 +434,7 @@ nav #ff{
         width: 340px;
         height: 340px;
         padding: 3px;
-        margin-left: -5px;
+        margin-left: -20px;
     }
     .hide{
         display: none;
